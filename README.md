@@ -14,3 +14,5 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=chigiriyap_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=chigiriyap_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=chigiriyap_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=chigiriyap_python-project-49)
 
+# asciinema
+https://asciinema.org/connect/a73800f8-887e-4591-b7f6-fa7c3c925ea7

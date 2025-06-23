@@ -24,9 +24,6 @@ dev = [
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_even:main"
 
-[tool.poetry.scripts]
-brain-even = "brain_games.scripts.brain_even:main"
-
 [tool.poetry.dev-dependencies]
 ruff = "^0.0.290"
 
