@@ -1,6 +1,9 @@
 install:
 	uv sync
 
+brain-gcd:
+	uv run brain-gcd
+
 brain-calc:
 	uv run brain-calc
 
