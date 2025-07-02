@@ -19,3 +19,4 @@ https://asciinema.org/connect/a73800f8-887e-4591-b7f6-fa7c3c925ea7
 https://asciinema.org/a/HpoMHsRQI17bmwqctITseOyUC
 https://asciinema.org/a/ENDDTWdV3nRpYcScUSuFxHbRe
 https://asciinema.org/a/F0IYYwpVZGwPQPzyJpLOLe8SB
+https://asciinema.org/a/z2tbSZLKiRYZPCWGsux5c9Upt
