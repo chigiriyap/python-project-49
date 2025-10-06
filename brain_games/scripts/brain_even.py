@@ -8,6 +8,7 @@ def generate_question():
     return str(number), correct_answer
 
 def main():
+    print('Answer "yes" if the number is even, otherwise answer "no".')
     play(generate_question)
 
 if __name__ == '__main__':

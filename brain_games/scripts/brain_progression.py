@@ -3,7 +3,7 @@ from brain_games.engine import play
 
 def generate_progression():
     start = random.randint(1, 20)
-    length = random.randint(5, 10)  # длина прогрессии от 5 до 10
+    length = random.randint(5, 10)
     step = random.randint(1, 10)
     progression = [start + i * step for i in range(length)]
     missing_index = random.randint(0, length - 1)
