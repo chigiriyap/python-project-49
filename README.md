@@ -1,3 +1,18 @@
+brain_games/
+├── __init__.py
+├── cli.py                # Основной интерфейс командной строки
+├── engine.py             # Игровой движок
+├── games/                # Директория с игровыми модулями
+│   ├── brain_calc.py     # Игра "Калькулятор"
+│   ├── brain_even.py     # Игра "Четное число"
+│   ├── brain_gcd.py      # Игра "Наибольший общий делитель"
+│   ├── brain_prime.py    # Игра "Простое число"
+│   ├── brain_progression.py # Игра "Арифметическая прогрессия"
+│   └── __init__.py
+└── scripts/             # Точки входа для запуска игр
+    ├── brain_calc_cli.py # Точка входа для игры "Калькулятор"
+    └── __init__.py 
+
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/chigiriyap/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/chigiriyap/python-project-49/actions)
 
