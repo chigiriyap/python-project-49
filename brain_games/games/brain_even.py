@@ -2,7 +2,7 @@ from brain_games.engine import play
 
 def generate_question():
     import random
-    number = random.randint(1, 100)
+    number = random.randint(1, 100) #NOSONAR
     is_even = (number % 2 == 0)
     correct_answer = 'yes' if is_even else 'no'
     return str(number), correct_answer

@@ -2,9 +2,9 @@ import random
 
 def generate_question():
     operators = ['+', '-', '*']
-    num1 = random.randint(1, 20)
-    num2 = random.randint(1, 20)
-    operator = random.choice(operators)
+    num1 = random.randint(1, 20) #NOSONAR
+    num2 = random.randint(1, 20) #NOSONAR
+    operator = random.choice(operators) #NOSONAR
 
     question = f"{num1} {operator} {num2}"
 
