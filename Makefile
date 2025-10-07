@@ -26,7 +26,7 @@ package-install:
 	uv tool install dist/*.whl
 
 lint:
-	uv run ruff check brain_games
+	uv run ruff check brain_games --fix
 
 .PHONY: install brain-games build package-install lint
 
